@@ -1,0 +1,28 @@
+{
+  "prefix": "-",
+  "clientId": "901837507925254194",
+  "owner": "694152452941021205",
+  "token": "OTAxODM3NTA3OTI1MjU0MTk0.G2NBjf.mYIDS6jTTUYEnRjY42197bO-jXmb8zBYAZYXh4",
+  "open_ai_key": "",
+  "colorDefault": "#85ffa1",
+  "colorSuccess": "#85ffa1",
+  "colorError": "#FF4949",
+  "emoji": {
+    "ERROR": "❌",
+    "SUCCESS": "✅",
+    "disabled": "🔴",
+    "enabled": "🟢",
+    "cleared": "🧹",
+    "time": "⏲️",
+    "search": "🔎",
+    "ping": "🏓",
+    "bot": "🤖"
+  },
+  "cookie": "VISITOR_INFO1_LIVE=s3Nmx_m96yM; LOGIN_INFO=AFmmF2swRQIhALtd7G9ggPZ1QZl7FczoUwj0-_VRaM-aavjnc0PhiG6zAiACngexmyeBuIUrCb_1igUSgfhDC64WkgnnyLZeNOi3-Q:QUQ3MjNmdzhUQkRWODdLdEZTRllYUnVrUFFmMWd4Snp2Sk1Gb1JKTGthbzRSZUZKMkxSMU8tR2Jsd2Z0VEJCQVJJMmFvUHAxZ1hKRHdHVWxBZVhOWDJnX1pEbGtkNFpxaGhTRnlPVUVMaUlKZHpRWVd5WTBaS3owNVRibHB6bVQzOTF1a1k0ZVNTUlZtXzNRb3lrOC12bURTUUZuTHpCVXhoSFNOY3RycmVULUhNM2QxNnZHUlJpUXRBUWN6N1VmOVg4TWkxMUNmM0RRMEs3djJHMGZqTDB5QVdnbWtOb0hqQQ==; HSID=AbSMd-gLt7lBYTaHW; SSID=AldcKO7huYf6dS2Jn; APISID=M7BTJbnDSlhnejZL/AxgXkNPjAiO_s9pXi; SAPISID=IlDy305Zph372ZuM/AU96raRMa3GodWErM; __Secure-1PAPISID=IlDy305Zph372ZuM/AU96raRMa3GodWErM; __Secure-3PAPISID=IlDy305Zph372ZuM/AU96raRMa3GodWErM; PREF=tz=Asia.Bangkok&f6=40000000&f5=20000&f4=4000000; SID=HQhhhNs4GSB4NEmmBWH0ffXpp4kE5MzzkTwuj_4fUMohNJNcGm74e1LBgK2JbtEJJX3arQ.; __Secure-1PSID=HQhhhNs4GSB4NEmmBWH0ffXpp4kE5MzzkTwuj_4fUMohNJNcsI1GoImjswvZKguVaV8F3A.; __Secure-3PSID=HQhhhNs4GSB4NEmmBWH0ffXpp4kE5MzzkTwuj_4fUMohNJNcjAhQjUjNOqUeAP_JPL2Fsw.; YSC=ayGEJzs5K8E; SIDCC=AJi4QfH0IzRuhEfycwWtruy9Y8trS0hgMA5YIi-U6A9i4rKWeJG_IZOUxE-MqvC570yv0hkEy30; __Secure-3PSIDCC=AJi4QfErXRDa7cHhmJFGb2aT2uugcS1CJRvPSxtVCHuyjDA2Eu0kqIk2RlqsHJmgAH3d5cipX2RR",
+  "identify": "QUFFLUhqbGJqLWUteWhWRzlpSF9qQXBKV0lGV3RhRjl3UXw\u003d",
+  "spotifyApi": {
+    "enabled": true,
+    "clientSecret": "66cf66d4fe7c4c8c840cbe3286ed1be2",
+    "clientId": "c0f59bbc69f747efb382d49855394b3e"
+  }
+}

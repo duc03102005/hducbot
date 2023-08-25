@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "@discordjs/opus": "^0.9.0",
+    "@distube/soundcloud": "^1.3.2",
+    "@distube/spotify": "^1.5.1",
+    "@distube/yt-dlp": "^1.1.3",
+    "ascii-table": "^0.0.9",
+    "axios": "^1.4.0",
+    "common-tags": "^1.8.2",
+    "discord.js": "^14.11.0",
+    "distube": "^4.0.4",
+    "ffmpeg-static": "^5.2.0",
+    "libsodium-wrappers": "^0.7.11",
+    "moment": "^2.29.4",
+    "openai": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "name": "space-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
